@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Individual_8</string>
+    <string name="titulo1">Bienvenido al primer activity</string>
+    <string name="titulo2">Bienvenido al segundo activity</string>
+    <string name="btn1_1">Ir al Segundo Activity</string>
+    <string name="btn2_1">Cerrar App</string>
+    <string name="btn1_2">Ir al Primer Activity</string>
+    <string name="btn2_2">Ir al Sitio</string>
+</resources>
